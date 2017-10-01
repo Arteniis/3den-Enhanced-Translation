@@ -5,6 +5,7 @@
       <Key ID="STR_ENH_disableTeamSwitch_displayName">
         <Original>Enable Team Switch</Original>
         <English>Enable Team Switch</English>
+        <French>Autoriser le Changement d'Equipe</French>
         <German>Teamwechsel erlauben</German>
       </Key>
     </Container>
@@ -97,7 +98,7 @@
         <Original>Will play randomly selected music at mission start. Input must look as follows: classname_1, classname_2, classname_3, classname_n.</Original>
         <English>Will play randomly selected music at mission start. Input must look as follows: classname_1, classname_2, classname_3, classname_n.</English>
         <Czech>Bude hrát náhodně vybranou hudbu na začátku mise. Formát musí být následující: classname_1, classname_2, classname_3, classname_n.</Czech>
-        <French>Joue aléatoirement une musique sélectionnée quand la mission débute. Formatez ainsi : ClassName_1, ClassName_2, ClassName_3, ClassName_n.</French>
+        <French>Joue aléatoirement une musique sélectionnée lorsque la mission débute. Formatez ainsi : ClassName_1, ClassName_2, ClassName_3, ClassName_n.</French>
         <Spanish>Reproducirá música seleccionada al azar en el inicio de la misión. La entrada debe tener el siguiente aspecto: classname_1, classname_2, classname_3, classname_n.</Spanish>
         <German>Spielt willkürlich ausgewählte Musikstücke am Anfang der Mission. Eingabe muss folgendermaßen aussehen: Klassenname_1, Klassenname_2, Klassenname_3, Klassenname_n.</German>
       </Key>
@@ -258,12 +259,14 @@
       <Key ID="STR_ENH_editableObjZeus_displayName">
         <Original>Editable Objects (Zeus)</Original>
         <English>Editable Objects (Zeus)</English>
+        <French>Objets Modifiables (Zeus)</French>
         <Czech>Upravitelné objekty (Zeus)</Czech>
         <German>Editierbare Objekte (Zeus)</German>
       </Key>
       <Key ID="STR_ENH_editableObjZeus_tooltip">
         <Original>Checks all alive objects (except logics) every 60 seconds and makes them available for editing for all curators.\nIf no curators are in game, the attribute will not work.</Original>
         <English>Checks all alive objects (except logics) every 60 seconds and makes them available for editing for all curators.\nIf no curators are in game, the attribute will not work.</English>
+        <French>Vérifie toutes les 60 secondes les objets actifs (sauf GameLogics) et les rend éditables pour le(s) joueur(s) Zeus. Attention : si aucun Zeus n'est présent en jeu, cette option ne fonctionnera pas.</French>
         <Czech>Kontroluje všechny živé objekty (kromě logik) každých 60 sekund a činí je dostupnými k úpravám pro všechny kurátory.\nPokud ve hře nejsou žádní kurátoři, tento atribut nebude fungovat.</Czech>
         <German>Stellt alle lebenden Objekte alle 60 Sekunden für jeden Kurator zum Bearbeiten zur Verfügung. Wenn keine Kuratoren vorhanden sind, funktioniert dieses Attribut nicht.</German>
       </Key>
@@ -274,12 +277,14 @@
       <Key ID="STR_ENH_weaponSway_displayName">
         <Original>Weapon Sway</Original>
         <English>Weapon Sway</English>
+        <French>Balancements de l'arme</French>
         <Czech>Houpání zbraně</Czech>
         <Spanish>Balanceo del arma</Spanish>
       </Key>
       <Key ID="STR_ENH_weaponSway_tooltip">
         <Original>Sets player's weapon sway. State is preserved even after respawn.</Original>
         <English>Sets player's weapon sway. State is preserved even after respawn.</English>
+        <French>Défini la puissance des balancements de l'arme du joueur. Ce paramètre est conservé après réapparition.</French>
         <Czech>Nastavuje jak moc se hráčova zbraň houpe. Nastavení je uchováno i po respawnu.</Czech>
         <Spanish>Establece el balanceo del arma del jugador. Este estado se conserva incluso después de respawn.</Spanish>
       </Key>
@@ -288,11 +293,13 @@
       <Key ID="STR_ENH_forceFlag_displayName">
         <Original>Flagge anbringen</Original>
         <English>Add Flag</English>
+        <French>Ajouter Drapeau</French>
         <German>Flagge anbringen</German>
       </Key>
       <Key ID="STR_ENH_forceFlag_tooltip">
         <Original>Forces a flag texture onto a flag carrier (unit, vehicle or flag pole). No flag holder is required. </Original>
         <English>Forces a flag texture onto a flag carrier (unit, vehicle or flag pole). No flag holder is required. </English>
+        <French>Force l'affichage d'une texture de drapeau sur un porteur de drapeau (Unité, Véhicule ou Mât).</French>
         <German>Bringt eine Flaggentexture an dem Flaggenträger an (Einheit, Fahrzeug oder Fahnenmast). Es wird keine Halterung für die Flagge benötigt.</German>
       </Key>
     </Container>
@@ -300,11 +307,13 @@
       <Key ID="STR_ENH_doStop_displayName">
         <Original>Stay on position</Original>
         <English>Stay on position</English>
+        <French>Rester en position</French>
         <German>Auf Position bleiben</German>
       </Key>
       <Key ID="STR_ENH_doStop_tooltip">
         <Original>Prevents AI from moving into formation at mission start.</Original>
         <English>Prevents AI from moving into formation at mission start.</English>
+        <French>Evite que l'IA se regroupe en formation au lancement de la mission.</French>
         <German>Verhindert das die KI beim Missionsstart in Formation tritt.</German>
       </Key>
     </Container>
@@ -312,6 +321,7 @@
       <Key ID="STR_ENH_weaponRecoil_displayName">
         <Original>Weapon Recoil</Original>
         <English>Weapon Recoil</English>
+        <French>Recul de l'arme</French>
         <Czech>Zpětný ráz zbraně</Czech>
         <Spanish>Retroceso del arma</Spanish>
         <German>Waffenrückstoß</German>
@@ -319,6 +329,7 @@
       <Key ID="STR_ENH_weaponRecoil_tooltip">
         <Original>Sets player's weapon recoil. State is preserved even after respawn.</Original>
         <English>Sets player's weapon recoil. State is preserved even after respawn.</English>
+        <French>Défini la puissance du recul de l'arme du joueur. Ce paramètre est conservé après réapparition.</French>
         <Czech>Nastavuje zpětný ráz hráčovy zbraně. Nastavení je uchováno i po respawnu.</Czech>
         <Spanish>Define el retroceso del arma del jugador. Este estado se conserva incluso después de respawn.</Spanish>
       </Key>
@@ -582,7 +593,7 @@
         <Original>Remove Weapons</Original>
         <English>Remove Weapons</English>
         <Czech>Odstranit zbraně</Czech>
-        <French>Désarmer</French>
+        <French>Retirer les armes</French>
         <Spanish>Quitar armas</Spanish>
         <German>Entferne Waffen</German>
       </Key>
@@ -600,7 +611,7 @@
         <Original>Forces unit to have gun light turned on.</Original>
         <English>Forces unit to have gun light turned on.</English>
         <Czech>Přinutí jednotku mít zapnuté světlo na zbrani.</Czech>
-        <French>Lampe tactique allumée en permanence.</French>
+        <French>Force l'unité à allumer sa lampe tactique.</French>
         <Spanish>Fuerza a la unidad a tener encendida la linterna del arma.</Spanish>
         <German>Baut eine Taschenlampe an die Waffe der Einheit, und schaltet diese an.</German>
       </Key>
@@ -658,7 +669,7 @@
         <Original>Unit will behave neutral and will join the civilian side.</Original>
         <English>Unit will behave neutral and will join the civilian side.</English>
         <Czech>Jednotka se bude chovat neutrálně a bude přiřazena na stranu civilistů.</Czech>
-        <French>L'unité adoptera un comprtement neutre et rejoindra la faction civile.</French>
+        <French>L'unité adoptera un comportement neutre et rejoindra la faction civile.</French>
         <Spanish>Unidad se comportará neutral y se unirá al bando civil.</Spanish>
         <German>Einheit wechselt auf die zivile Seite und verhält sich neutral.</German>
       </Key>
@@ -704,7 +715,7 @@
         <Original>Aiming Shake</Original>
         <English>Aiming Shake</English>
         <Czech>Stabilita při míření</Czech>
-        <French>Stabilité</French>
+        <French>Stabilité de la visée</French>
         <Spanish>Temblado al apuntar</Spanish>
         <German>Verwacklung beim Zielen</German>
       </Key>
@@ -728,7 +739,7 @@
         <Original>Affects how quickly the AI can rotate and stabilize its aim (Higher value = faster, less error).</Original>
         <English>Affects how quickly the AI can rotate and stabilize its aim (Higher value = faster, less error).</English>
         <Czech>Ovlivňuje jak rychle může umělá inteligence zamířit (vyšší hodnota = rychlejší míření, menší odchylka)</Czech>
-        <French>Capacité de l'IA à s'orienter et stabiliser sa visée (valeur élevée = plus habile).</French>
+        <French>Capacité de l'IA à s'orienter et stabiliser sa visée (valeur élevée = IA plus habile).</French>
         <Spanish>Afecta como de rápido la IA puede rotar y estabilizar su apuntado (valor más alto = rápido, más eficaz)</Spanish>
         <German>Beeinflusst wie schnell eine KI sich herumdrehen und ihr Zielen stabilisieren kann (Höherer Wert = schneller, weniger Fehler).</German>
       </Key>
@@ -850,7 +861,7 @@
         <Original>Mine detection</Original>
         <English>Mine detection</English>
         <Czech />
-        <French />
+        <French>Détection des mines</French>
         <Spanish />
         <German>Minenerkennung</German>
       </Key>
@@ -858,7 +869,7 @@
         <Original>Weapon Aim</Original>
         <English>Weapon Aim</English>
         <Czech />
-        <French />
+        <French>Viser avec une arme</French>
         <Spanish />
         <German>Zielen</German>
       </Key>
@@ -978,7 +989,7 @@
         <Original>AI disabled because of Team Switch.</Original>
         <English>AI disabled because of Team Switch.</English>
         <Czech>Umělá inteligence je deaktivována kvůli přepínání týmu.</Czech>
-        <French>IA désactyivée à cause d'un Team Switch.</French>
+        <French>IA désactivée après un Team Switch.</French>
         <Spanish>IA desactivado a causa del cambio de equipo.</Spanish>
         <German>Deaktiviert die Fähigkeit der KI, die Gruppe automatisch zu wechseln.</German>
       </Key>
@@ -994,7 +1005,7 @@
         <Original>Disables visibility raycasts.</Original>
         <English>Disables visibility raycasts.</English>
         <Czech>Vypíná zobrazování raycastů.</Czech>
-        <French>désactive la visbilité des raycasts.</French>
+        <French>Désactive la visbilité des raycasts.</French>
         <Spanish>Deshabilita la visibilidad raycasts (Se utiliza para determinar qué otras entidades puede ver una entidad).</Spanish>
         <German>Deaktiviert die Fähigkeit der KI, erkannte Ziele bzw. Objekte an eigene Einheiten weiterzugeben.</German>
       </Key>
@@ -1080,7 +1091,7 @@
         <Original>Make Hostage</Original>
         <English>Make Hostage</English>
         <Czech>Rukojmí</Czech>
-        <French>Rend otage</French>
+        <French>Rendre Otage</French>
         <Spanish>Crear rehén</Spanish>
         <German>Zur Geisel machen</German>
       </Key>
@@ -1088,7 +1099,7 @@
         <Original>Makes the unit a hostage and adds a 'Free Hostage' action. Whether the unit is still hostage can be checked with _unitName getVariable 'Enh_isHostage';</Original>
         <English>Makes the unit a hostage and adds a 'Free Hostage' action. Whether the unit is still hostage can be checked with _unitName getVariable 'Enh_isHostage';</English>
         <Czech>Udělá z jednotky rukojmí a přídá možnost "Osvobodit rukojmí". Jestli je jednotka stále rukojmím může být zkontrolováno pomocí _unitName getVariable 'Enh_isHostage';</Czech>
-        <French>Défini l'unité comme étant otage, et ajoute une action "Libérer l'Otage". Il est possible de vérifier son statut d'otage avec la commande : _unitName getVariable "Enh_isHostage";</French>
+        <French>Défini l'unité comme étant otage, et ajoute une action "Libérer l'otage". Il est possible de vérifier son statut d'otage avec la commande : _unitName getVariable "Enh_isHostage";</French>
         <Spanish>Hace que la unidad sea un rehén y añade una acción de "liberar rehén". Si la unidad sigue siendo rehén se puede comprobar con _unitName getVariable 'Enh_isHostage';</Spanish>
         <German>Die Einheit wird zu einer Geisel und jeder Spieler erhält eine Action diese zu befreien, ob die Geisel befreit wurde kann mit folgendermaßen überprüft werden: _unitName getVariable 'Enh_isHostage';</German>
       </Key>
@@ -1098,7 +1109,7 @@
         <Original>Is Medic?</Original>
         <English>Is Medic?</English>
         <Czech>Je lékařem?</Czech>
-        <French>Est infirmier?</French>
+        <French>Est infirmier ?</French>
         <Spanish>¿Es médico?</Spanish>
         <German>Ist Sanitäter?</German>
       </Key>
@@ -1114,7 +1125,7 @@
         <Original>Is Engineer?</Original>
         <English>Is Engineer?</English>
         <Czech>Je ženistou?</Czech>
-        <French>Est mécanicien ?</French>
+        <French>Est ingénieur ?</French>
         <Spanish>¿Es ingeniero?</Spanish>
         <German>Ist Ingenieur?</German>
       </Key>
@@ -1230,7 +1241,7 @@
         <Original>Disable Thermal Optics</Original>
         <English>Disable Thermal Optics</English>
         <Czech>Zakázat použití termální optiky</Czech>
-        <French>Désactiver les optiques à voien thermique</French>
+        <French>Désactiver les optiques à vision thermique</French>
         <Spanish>Deshabilitar opticas térmicas</Spanish>
         <German>Verbiete Wärmebildoptik</German>
       </Key>
@@ -1238,7 +1249,7 @@
         <Original>If enabled, thermal optics can no longer be used.</Original>
         <English>If enabled, thermal optics can no longer be used.</English>
         <Czech>Zamezí použití termální optiky.</Czech>
-        <French>Si activé, les optiques de visée intégrant une voie thermique ne peuvent pas être utilisées.</French>
+        <French>Si activé, les optiques de visée intégrant une vision thermique ne peuvent pas être utilisées.</French>
         <Spanish>Si está habilitado, opticas térmicas no pueden ser usadas.</Spanish>
         <German>Wenn aktiviert können Wärmebildoptiken nicht mehr verwendet werden.</German>
       </Key>
@@ -1285,7 +1296,7 @@
         <Original>On Damaged</Original>
         <English>On Damaged</English>
         <Czech>Při poškození</Czech>
-        <French>Lorsqu'endommagé</French>
+        <French>Lorsque endommagé</French>
         <Spanish>En daño</Spanish>
         <German>Wenn beschädigt</German>
       </Key>
@@ -1348,12 +1359,14 @@
       <Key ID="STR_ENH_featureType_displayName">
         <Original>Visibility</Original>
         <English>Visibility</English>
+        <French>Visibilité</French>
         <Spanish>Visibilidad</Spanish>
         <German>Sichtbarkeit</German>
       </Key>
       <Key ID="STR_ENH_featureType_tooltip">
         <Original>Defines the visibility of the object.</Original>
         <English>Defines the visibility of the object.</English>
+        <French>Défini si l'objet est visible ou non.</French>
         <Spanish>Define la visibilidad de un objeto.</Spanish>
         <German>Beeinflusst die Sichtbarkeit des Objektes.</German>
       </Key>
@@ -1387,7 +1400,7 @@
         <Original>Log class to clipboard</Original>
         <English>Log class to clipboard</English>
         <Czech>Zaznamenat třídu do schránky</Czech>
-        <French>Log Class vers le presse-papier</French>
+        <French>Copier le Log Class vers le presse-papier</French>
         <Spanish>Registar "Class" en el portapapeles.</Spanish>
         <German>Kopiere Klasse in Zwischenablage</German>
       </Key>
@@ -1432,6 +1445,7 @@
       <Key ID="STR_ENH_logPositions">
         <Original>Log positions</Original>
         <English>Log positions</English>
+        <French>Copier le Log Positions vers le presse-papier.</French>
         <German>Kopiere Positionen in Zwischenablage</German>
       </Key>
     </Container>
@@ -1543,7 +1557,7 @@
       <Key ID="STR_ENH_HelpAICompilation">
         <Original>AI Compilation List by Gunter Severloh...</Original>
         <English>AI Compilation List by Gunter Severloh...</English>
-        <French>Compilation de scripts pour l'IA par Gunter Severloh</French>
+        <French>Compilation de scripts pour l'IA par Gunter Severloh...</French>
         <Spanish>Compilación de scripts por Gunter Severloh...</Spanish>
         <German>KI Zusammenstellung von Gunter Severloh...</German>
       </Key>
@@ -1666,7 +1680,7 @@
         <Original>Recompile Functions</Original>
         <English>Recompile Functions</English>
         <Czech>Překompilovat funkce</Czech>
-        <French>Recompiler la fonction</French>
+        <French>Recompiler les Fonctions</French>
         <Spanish>Recompilar funciones</Spanish>
         <German>Funktionen neu kompilieren</German>
       </Key>
@@ -1790,41 +1804,42 @@
       <Key ID="STR_ENH_tools_moonPhases">
         <Original>Moon Phases</Original>
         <English>Moon Phases</English>
-        <French />
+        <French>Phases de la Lune</French>
         <Spanish>Fases lunares</Spanish>
         <German>Mondphasen</German>
       </Key>
       <Key ID="STR_ENH_tools_jukebox">
         <Original>Jukebox</Original>
         <English>Jukebox</English>
-        <French />
+        <French>Jukebox</French>
         <Spanish>Toca discos</Spanish>
         <German>Jukebox</German>
       </Key>
       <Key ID="STR_ENH_tools_printConfig">
         <Original>Print Config</Original>
         <English>Print Config</English>
-        <French />
+        <French>Imprimer le fichier Config</French>
         <Spanish>Imprimir configuración</Spanish>
         <German>Config auslesen</German>
       </Key>
       <Key ID="STR_ENH_tools_CfgDisabledCommands">
         <Original>CfgDisabled Commands Template Generator</Original>
         <English>CfgDisabled Commands Template Generator</English>
-        <French />
+        <French>CfgDisabled Commands Template Generator</French>
         <Spanish>Generador de plantillas de comandos de CfgDisabled</Spanish>
         <German>CfgDisabled Commands Template Generator</German>
       </Key>
       <Key ID="STR_ENH_tools_batchNaming">
         <Original>Batch Naming</Original>
         <English>Batch Naming</English>
-        <French />
+        <French>Nommer par lot (Batch Naming)</French>
         <Spanish>Cambio de nombre en lote</Spanish>
         <German>Batch Naming</German>
       </Key>
       <Key ID="STR_ENH_colourPicker">
         <Original>Colour Picker</Original>
         <English>Colour Picker</English>
+        <French>Pipette à couleurs</French>
         <German>Farbauswahl Werkzeug</German>
       </Key>
     </Container>
@@ -1841,7 +1856,7 @@
         <Original>Arma 3 Utilities</Original>
         <English>Arma 3 Utilities</English>
         <Czech />
-        <French />
+        <French>Arma 3 Utilities</French>
         <Spanish>Utilidades Arma 3</Spanish>
         <German>Arma 3 Hilfsmittel</German>
       </Key>
@@ -2002,6 +2017,7 @@
         <English>APEX Protocol Style</English>
         <Spanish>Estilo Protocolo APEX</Spanish>
         <German>APEX Protocol Stil</German>
+        <French>Style APEX Protocol</French>
       </Key>
     </Container>
     <Container name="Terrain Quality">
@@ -2050,24 +2066,28 @@
       <Key ID="STR_ENH_featureType_objectViewDistance_text">
         <Original>Limit by Object View Distance</Original>
         <English>Limit by Object View Distance</English>
+        <French>Limiter par Distance d'affichage des Objets</French>
         <Spanish>Limitado por distancia de visión de objetos</Spanish>
         <German>Limitiert durch Objektsichtweite.</German>
       </Key>
       <Key ID="STR_ENH_featureType_objectViewDistance_tooltip">
         <Original>Object is always visible within object view distance.</Original>
         <English>Object is always visible within object view distance.</English>
+        <French>L'objet est toujours visible si situé dans la distance d'affichage des objets.</French>
         <Spanish>El objeto está siempre visible dentro de la distancia de visión de objetos.</Spanish>
         <German>Das Objekt ist immer sichtbar innerhalb der Objektsichweite.</German>
       </Key>
       <Key ID="STR_ENH_featureType_terrainViewDistance_text">
         <Original>Limit by Terrain View Distance</Original>
         <English>Limit by Terrain View Distance</English>
+        <French>Limiter par Distance d'affichage du Terrain</French>
         <Spanish>Limitado por la distancia de visión del terreno</Spanish>
         <German>Limitiert durch Geländesichtbarkeit</German>
       </Key>
       <Key ID="STR_ENH_featureType_terrainViewDistance_tooltip">
         <Original>Object is always visible within terrain view distance.</Original>
         <English>Object is always visible within terrain view distance.</English>
+        <French>L'objet est toujours visible si situé dans la distance d'affichage du terrain.</French>
         <Spanish>El objeto es siempre visible dentro de la distancia de la vista del terreno.</Spanish>
         <German>Das Objekt ist immer innerhalb der Geländesichtweite sichtbar.</German>
       </Key>
@@ -2076,40 +2096,47 @@
       <Key ID="STR_ENH_ambAnimations_headline">
         <Original>Ambient Animations</Original>
         <English>Ambient Animations</English>
+        <French>Animations ambiantes</French>
         <Spanish>Animaciones de ambiente</Spanish>
       </Key>
       <Key ID="STR_ENH_ambAnimations_description">
         <Original>Select an animation and loadout. To save performance, this attribute will only work in single player missions.</Original>
         <English>Select an animation and loadout. To save performance, this attribute will only work in single player missions.</English>
+        <French>Sélectionne une animation et un équipement. Pour conserver les performances, cette option ne s'applique qu'aux missions Solo</French>
         <Spanish>Seleccione una animación y equipamiento. Para mejorar rendimiento, este atributo sólo funcionará en misiones de un solo jugador.</Spanish>
       </Key>
       <Key ID="STR_ENH_ambAnimations_reset_text">
         <Original>Reset</Original>
         <English>Reset</English>
+        <French>Restaurer l'état original</French>
         <Spanish>Reiniciar</Spanish>
         <German>Zurücksetzen</German>
       </Key>
       <Key ID="STR_ENH_ambAnimations_animText_text">
         <Original>Animation</Original>
         <English>Animation</English>
+        <French>Animation</French>
         <Spanish>Animación</Spanish>
         <German>Animation</German>
       </Key>
       <Key ID="STR_ENH_ambAnimations_gearText_text">
         <Original>Gear</Original>
         <English>Gear</English>
+        <French>Equipement</French>
         <Spanish>Equipo</Spanish>
         <German>Ausrüstung</German>
       </Key>
       <Key ID="STR_ENH_ambAnimations_gearText_tooltip">
         <Original>Select the loadout.</Original>
         <English>Select the loadout.</English>
+        <French>Sélectionne l'équipement.</French>
         <Spanish>Selecciona equipamiento</Spanish>
         <German>Wähle die Ausrüstung,</German>
       </Key>
       <Key ID="STR_ENH_ambAnimations_animText_tooltip">
         <Original>Select the animation.</Original>
         <English>Select the animation.</English>
+        <French>Sélectionne l'animation.</French>
         <Spanish>Selecciona la animación</Spanish>
         <German>Wähle die Animation.</German>
       </Key>
@@ -2201,7 +2228,7 @@
         <Original>Establishing Shot</Original>
         <English>Establishing Shot</English>
         <Czech>UAV Intro</Czech>
-        <French>Establishing Shot</French>
+        <French>Intro UAV (Drône)</French>
         <Spanish>Introducción con UAV</Spanish>
         <German>UAV Intro</German>
       </Key>
@@ -2229,7 +2256,7 @@
         <Original>Marker Text</Original>
         <English>Marker Text</English>
         <Czech>Text značky</Czech>
-        <French>Texte de marqueur</French>
+        <French>Texte du marqueur</French>
         <Spanish>Texto de Marcador</Spanish>
         <German>Marker Text</German>
       </Key>
@@ -2245,7 +2272,7 @@
         <Original>Path</Original>
         <English>Path</English>
         <Czech>Cesta</Czech>
-        <French>Chemin</French>
+        <French>Emplacement</French>
         <Spanish>Ruta</Spanish>
         <German>Pfad</German>
       </Key>
@@ -2340,31 +2367,37 @@
       <Key ID="STR_ENH_briefingEditor_marker_displayName">
         <Original>Marker</Original>
         <English>Marker</English>
+        <French>Marqueur</French>
         <German>Markierung</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_width_displayName">
         <Original>Width</Original>
         <English>Width</English>
+        <French>Largeur</French>
         <German>Breite</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_height_displayName">
         <Original>Height</Original>
         <English>Height</English>
+        <French>Hauteur</French>
         <German>Höhe</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_picture_displayName">
         <Original>Picture</Original>
         <English>Picture</English>
+        <French>Image</French>
         <German>Bild</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_colourAndExpression_displayName">
         <Original>Colour &amp; Expression</Original>
         <English>Colour &amp; Expression</English>
+        <French>Couleur et Expression</French>
         <German>Farbe &amp; Ausdruck</German>
       </Key>
       <Key ID="STR_ENH_briefingEditor_expression_displayName">
         <Original>Expression</Original>
         <English>Expression</English>
+        <French>Expression</French>
         <German>Ausdruck</German>
       </Key>
     </Container>
@@ -2372,78 +2405,91 @@
       <Key ID="STR_ENH_3denRadio_saveAndClose_text">
         <Original>Save &amp; Close</Original>
         <English>Save &amp; Close</English>
+        <French>Sauvegarder et Fermer</French>
         <Spanish>Guardar y salir</Spanish>
         <German>Speich. &amp; Schließ.</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_playlist_text">
         <Original>Playlist</Original>
         <English>Playlist</English>
+        <French>Playlist</French>
         <Spanish>Canciones seleccionadas</Spanish>
         <German>Playlist</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_clearPlaylist_text">
         <Original>Clear Playlist</Original>
         <English>Clear Playlist</English>
+        <French>Vider la Playlist</French>
         <Spanish>Borrar selección</Spanish>
         <German>Playlist leeren</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_exportPlaylist_text">
         <Original>Export</Original>
         <English>Export</English>
+        <French>Exporter</French>
         <Spanish>Exportar</Spanish>
         <German>Export</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_importPlaylist_text">
         <Original>Import</Original>
         <English>Import</English>
+        <French>Importer</French>
         <Spanish>Importar</Spanish>
         <German>Importieren</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_headline_title">
         <Original>Title</Original>
         <English>Title</English>
+        <French>Titre</French>
         <Spanish>Título</Spanish>
         <German>Titel</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_headline_duration">
         <Original>Duration</Original>
         <English>Duration</English>
+        <French>Durée</French>
         <Spanish>Duración</Spanish>
         <German>Länge</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_headline_theme">
         <Original>Theme</Original>
         <English>Theme</English>
+        <French>Thème</French>
         <Spanish>Tema</Spanish>
         <German>Thema</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_headline_mod">
         <Original>Mod</Original>
         <English>Mod</English>
+        <French>Mod</French>
         <Spanish>Mod</Spanish>
         <German>Mod</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_enableRadio_text">
         <Original>Turn on</Original>
         <English>Turn on</English>
+        <French>Allumer la radio</French>
         <Spanish>Habilitar radio</Spanish>
         <German>Anschalten</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_disableRadio_text">
         <Original>Turn off</Original>
         <English>Turn off</English>
+        <French>Eteindre la radio</French>
         <Spanish>Deshabilitar radio</Spanish>
         <German>Ausschalten</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_volume_text">
         <Original>Vol.:</Original>
         <English>Vol.:</English>
+        <French>Volume :</French>
         <Spanish>Vol.:</Spanish>
         <German>Vol.:</German>
       </Key>
       <Key ID="STR_ENH_3denRadio_help_text">
         <Original>Help</Original>
         <English>Help</English>
+        <French>Aide</French>
         <German>Hilfe</German>
       </Key>
     </Container>
@@ -2451,6 +2497,7 @@
       <Key ID="STR_ENH_changelog_header">
         <Original>3den Enhanced Changelog</Original>
         <English>3den Enhanced Changelog</English>
+        <French>Modifications apportées à 3den Enhanced</French>
         <German>3den Enhanced Changelog</German>
       </Key>
     </Container>
@@ -2458,11 +2505,13 @@
       <Key ID="STR_ENH_nameObjects_header">
         <Original>Name Objects</Original>
         <English>Name Objects</English>
+        <French>Nommer les Objets</French>
         <German>Objekte benennen</German>
       </Key>
       <Key ID="STR_ENH_nameObjects_removeName">
         <Original>Remove Name</Original>
         <English>Remove Name</English>
+        <French>Supprimer le Nom</French>
         <German>Namen entf.</German>
       </Key>
       <Key ID="STR_ENH_nameObjects_OK">
@@ -2481,7 +2530,7 @@
         <Original>Start Index</Original>
         <English>Start Index</English>
         <Czech />
-        <French />
+        <French>Index de départ</French>
         <Spanish />
         <Italian />
         <Polish />
@@ -2510,11 +2559,13 @@
       <Key ID="STR_ENH_garrison_notification">
         <Original>Not enough empty building positions, increase the radius or reduce the coverage.</Original>
         <English>Not enough empty building positions, increase the radius or reduce the coverage.</English>
+        <French>Pas assez de positions disponibles dans le(s) bâtiment(s).</French>
         <German>Nicht genug leere Gebäudepositionen, erhöhe den Radius oder die Abdeckung.</German>
       </Key>
       <Key ID="STR_ENH_garrison_close">
         <Original>Close</Original>
         <English>Close</English>
+        <French>Fermer</French>
         <German>Schließen</German>
       </Key>
     </Container>
@@ -2547,6 +2598,7 @@
         <Original>Radius</Original>
         <English>Radius</English>
         <German>Radius</German>
+        <French>Rayon</French>
       </Key>
       <Key ID="STR_ENH_patternTools_circular_header">
         <Original>Circular Pattern</Original>
@@ -2567,16 +2619,19 @@
       <Key ID="STR_ENH_patternTool_spacing">
         <Original>Spacing</Original>
         <English>Spacing</English>
+        <French>Espacement</French>
         <German>Abstand</German>
       </Key>
       <Key ID="STR_ENH_patternTools_A">
         <Original>A</Original>
         <English>A</English>
+        <French>A</French>
         <German>A</German>
       </Key>
       <Key ID="STR_ENH_patternTools_B">
         <Original>B</Original>
         <English>B</English>
+        <French>B</French>
         <German>B</German>
       </Key>
     </Container>
@@ -2584,26 +2639,31 @@
       <Key ID="STR_ENH_colourPicker_finalColour">
         <Original>Final Colour</Original>
         <English>Final Colour</English>
+        <French>Couleur finale</French>
         <German>Fertige Farbe</German>
       </Key>
       <Key ID="STR_ENH_colourPicker_red">
         <Original>Red</Original>
         <English>Red</English>
+        <French>Rouge</French>
         <German>Rot</German>
       </Key>
       <Key ID="STR_ENH_colourPicker_green">
         <Original>Green</Original>
         <English>Green</English>
+        <French>Vert</French>
         <German>Grün</German>
       </Key>
       <Key ID="STR_ENH_colourPicker_blue">
         <Original>Blue</Original>
         <English>Blue</English>
+        <French>Bleu</French>
         <German>Blau</German>
       </Key>
       <Key ID="STR_ENH_colourPicker_alpha">
         <Original>Alpha</Original>
         <English>Alpha</English>
+        <French>Transparence (alpha)</French>
         <German>Alpha</German>
       </Key>
     </Container>
@@ -2613,14 +2673,14 @@
       <Key ID="STR_ENH_taskPatrol_displayname">
         <Original>Task Patrol</Original>
         <English>Task Patrol</English>
-        <French>patrouille</French>
+        <French>Patrouille</French>
         <Spanish>Tarea de patrulla</Spanish>
         <German>Patrouillieren</German>
       </Key>
       <Key ID="STR_ENH_taskPatrol_tooltip">
         <Original>Makes the group of the selected unit patrol an area. The value defines the max. distance between two patrol waypoints.\n\n-1 deactivates the patrol.</Original>
         <English>Makes the group of the selected unit patrol an area. The value defines the max. distance between two patrol waypoints.\n\n-1 deactivates the patrol.</English>
-        <French>Fais patrouiller le groupe sélectionné. La valeur définit la distance max entre deux étapes de l'itinéraire.\n\n-1 désactives the patrol.</French>
+        <French>Fais patrouiller le groupe sélectionné. La valeur définit la distance maximum entre deux étapes de l'itinéraire.\n\n-1 annule la patrouille.</French>
         <Spanish>Hace que el grupo de la unidad seleccionada patrulle un área. El valor define la máx. distancia entre dos waypoints de patrulla. \n\n-1 desactiva la patrulla.</Spanish>
         <German>Weist der Gruppe der ausgewählten Einheit ein Gebiet zum Patrouillieren zu. Der Wert definiert den maximalen Abstand zwischen den Wegpunkten.\n\n-1 deativiert die Patrouillieren.</German>
       </Key>
@@ -2647,7 +2707,7 @@
       <Key ID="STR_ENH_ambAnimEquipCombo_medium">
         <Original>Medium (No goggles, headgear)</Original>
         <English>Medium (No goggles, headgear)</English>
-        <French>Intermédiaire (pas de lunette ou de casque)</French>
+        <French>Intermédiaire (pas de lunettes ni de casque)</French>
         <Spanish>Medio (sin gafas, ni equipamiento de cabeza)</Spanish>
         <Italian>Medium (Niente occhiali né elmetto)</Italian>
         <German>Mittel (Keine Nachtsicht, Kopfbedeckung)</German>
@@ -2655,7 +2715,7 @@
       <Key ID="STR_ENH_ambAnimEquipCombo_full">
         <Original>Full (No goggles)</Original>
         <English>Full (No goggles)</English>
-        <French>Tout (pas de lunette)</French>
+        <French>Tout (pas de lunettes)</French>
         <Spanish>Completo (sin gafas)</Spanish>
         <Italian>Full (Niente occhiali)</Italian>
         <German>Volle Ausrüstung (Keine Nachtsicht)</German>
@@ -2663,7 +2723,7 @@
       <Key ID="STR_ENH_ambAnimEquipCombo_none">
         <Original>None (No goggles, headgear, vest, weapon)</Original>
         <English>None (No goggles, headgear, vest, weapon)</English>
-        <French>Rien (pas de lunette, casque, veste ou arme)</French>
+        <French>Rien (pas de lunettes, casque, veste ou arme)</French>
         <Spanish>Ninguno (Sin gafas, equipamiento de cabeza, chaleco ni arma)</Spanish>
         <Italian>Nulla (Niente occhiali, elmetto, veste e arma)</Italian>
         <German>Nichts (Keine Nachtsicht, Kopfbedeckung, Weste, Waffe)</German>
@@ -2681,7 +2741,7 @@
       <Key ID="STR_ENH_ambAnimCombo_standIA">
         <Original>Stand (Default A3 animation)</Original>
         <English>Stand (Default A3 animation)</English>
-        <French>Attend (animation debout par défaut)</French>
+        <French>Attend (animation par défaut d'Arma 3)</French>
         <Spanish>De pie (Animación A3 predeterminada)</Spanish>
         <Italian>Eretto (Animazione di default)</Italian>
         <German>Stehen (Standard A3 Animation)</German>
@@ -2689,7 +2749,7 @@
       <Key ID="STR_ENH_ambAnimCombo_sitLow">
         <Original>Sit (Sitting on the ground, with weapon)</Original>
         <English>Sit (Sitting on the ground, with weapon)</English>
-        <French>Assis au sol 1(armé)</French>
+        <French>Assis 1 (au sol, avec arme)</French>
         <Spanish>Sentarse (Sentado en el suelo, con arma)</Spanish>
         <Italian>Seduto (Seduto per terra, con un'arma)</Italian>
         <German>Schneidersitz (Bewaffnet)</German>
@@ -2697,7 +2757,7 @@
       <Key ID="STR_ENH_ambAnimCombo_sitLowU">
         <Original>Sit low (Sitting on the ground, no weapon)</Original>
         <English>Sit low (Sitting on the ground, no weapon)</English>
-        <French>Assis au sol 2 (non armé)</French>
+        <French>Assis 2 (au sol, non armé)</French>
         <Spanish>Sentarse bajo (Sentado en el suelo, sin arma)</Spanish>
         <Italian>Sit Low(Seduto a terra senza arma)</Italian>
         <German>Schneidersitz (unbewaffnet)</German>
@@ -2720,7 +2780,7 @@
       <Key ID="STR_ENH_ambAnimCombo_watch1">
         <Original>Watch 1 (Standing and turning around)</Original>
         <English>Watch (Standing and turning around)</English>
-        <French>Surveille 1 (attend et pivote sur lui même)</French>
+        <French>Observe 1 (attend et pivote sur lui-même)</French>
         <Spanish>Observar 1 (De pie y girando)</Spanish>
         <Italian>Watch  1(Posizione eretta mentre controlla i dintorni)</Italian>
         <German>Ausschau halten 1</German>
@@ -2728,7 +2788,7 @@
       <Key ID="STR_ENH_ambAnimCombo_watch">
         <Original>Watch 1 (Standing and turning around)</Original>
         <English>Watch (Standing and turning around)</English>
-        <French>Surveille 2 (attend et pivote sur lui même)</French>
+        <French>Observe 2 (attend et pivote sur lui-même)</French>
         <Spanish>Observar 1 (De pie y girando)</Spanish>
         <Italian>Watch  1(Posizione eretta mentre controlla i dintorni)</Italian>
         <German>Ausschau halten 1</German>
@@ -2736,7 +2796,7 @@
       <Key ID="STR_ENH_ambAnimCombo_watch2">
         <Original>Watch 2(Standing and turning around)</Original>
         <English>Watch (Standing and turning around)</English>
-        <French>Surveille 3(attend et pivote sur lui même)</French>
+        <French>Observe 3 (attend et pivote sur lui-même)</French>
         <Spanish>Observar 2 (De pie y girando)</Spanish>
         <Italian>Watch 2(Posizione eretta mentre controlla i dintorni)</Italian>
         <German>Ausschau halten 2</German>
@@ -2752,7 +2812,7 @@
       <Key ID="STR_ENH_ambAnimCombo_standU2">
         <Original>Stand U2 (Slightly turning to the sides, no weapon)</Original>
         <English>Stand U2 (Slightly turning to the sides, no weapon)</English>
-        <French>Attend 2 (tourne légèrement sur les côtés, non armé)</French>
+        <French>Attend 2 (pivote légèrement sur les côtés, non armé)</French>
         <Spanish>De pie U2 (Ligeramente girando a los lados, sin arma)</Spanish>
         <Italian>Stand U2 (Si gira leggermente, nessun'arma)</Italian>
         <German>Stehen U2 (Leicht zur seite drehend, keine Waffe)</German>
@@ -2760,7 +2820,7 @@
       <Key ID="STR_ENH_ambAnimCombo_standU3">
         <Original>Stand U3 (Slightly turning to the sides, no weapon)</Original>
         <English>Stand U3 (Slightly turning to the sides, no weapon)</English>
-        <French>Attend 3(tourne légèrement sur les côtés, non armé)</French>
+        <French>Attend 3 (pivote légèrement sur les côtés, non armé)</French>
         <Spanish>De pie U3 (Ligeramente girando a los lados, sin arma)</Spanish>
         <Italian>Stand U3 (Si gira leggermente, nessun'arma)</Italian>
         <German>Stehen U3 (Leicht zur seite drehend, keine Waffe)</German>
@@ -2816,7 +2876,7 @@
       <Key ID="STR_ENH_ambAnimCombo_sitU1">
         <Original>Sit U1 (Sitting on bench or similar, no weapon)</Original>
         <English>Sit U1 (Sitting on bench or similar, no weapon)</English>
-        <French>Assis non armé 1 (sur un banc ou autre, sans arme)</French>
+        <French>Assis 4 (sur un objet, sans arme)</French>
         <Spanish>Sit U1 (Sentado en un banco o similar, sin arma)</Spanish>
         <Italian>Sit U1 (Seduto su una panchina o similiari, nessun'arma)</Italian>
         <German>Sitzen U1 (Auf Bank oder Ähnlichem sitzend, keine Waffe)</German>
@@ -2824,7 +2884,7 @@
       <Key ID="STR_ENH_ambAnimCombo_sitU2">
         <Original>Sit U2 (Sitting on bench or similar, no weapon)</Original>
         <English>Sit U1 (Sitting on bench or similar, no weapon)</English>
-        <French>Assis non armé 2 (sur un banc ou autre, sans arme)</French>
+        <French>Assis 5 (sur un objet, sans arme)</French>
         <Spanish>Sit U2 (Sentado en un banco o similar, sin arma)</Spanish>
         <Italian>Sit U2 (Seduto su una panchina o similiari, nessun'arma)</Italian>
         <German>Sitzen U2(Auf Bank oder Ähnlichem sitzend, keine Waffe)</German>
@@ -2832,7 +2892,7 @@
       <Key ID="STR_ENH_ambAnimCombo_sitU3">
         <Original>Sit U3 (Sitting on bench or similar, no weapon)</Original>
         <English>Sit U1 (Sitting on bench or similar, no weapon)</English>
-        <French>Assis non armé 3 (sur un banc ou autre, sans arme)</French>
+        <French>Assis 6 (sur un objet, sans arme)</French>
         <Spanish>Sentado U3 (sentado en un banco o similar, sin arma)</Spanish>
         <Italian>Sit U3 (Seduto su una panchina o similiari, nessun'arma)</Italian>
         <German>Sitzen U3 (Auf Bank oder Ähnlichem sitzend, keine Waffe)</German>
@@ -2840,7 +2900,7 @@
       <Key ID="STR_ENH_ambAnimCombo_sit1">
         <Original>Sit 1 (Sitting on bench or similar)</Original>
         <English>Sit 1 (Sitting on bench or similar)</English>
-        <French>Assis 1 (sur un banc ou autre)</French>
+        <French>Assis 7 (sur un objet, armé)</French>
         <Spanish>Sentarse 1 (sentado en un banco o similar)</Spanish>
         <Italian>Sit 1 (Seduto su una panchina o similiari)</Italian>
         <German>Sitzen 1 (Auf Bank oder Ähnlichem sitzend)</German>
@@ -2848,7 +2908,7 @@
       <Key ID="STR_ENH_ambAnimCombo_sit2">
         <Original>Sit 2 (Sitting on bench or similar)</Original>
         <English>Sit 2 (Sitting on bench or similar)</English>
-        <French>Assis 2 (sur un banc ou autre)</French>
+        <French>Assis 8 (sur un objet, armé)</French>
         <Spanish>Sentarse 2 (sentado en un banco o similar)</Spanish>
         <Italian>Sit 2 (Seduto su una panchina o similiari)</Italian>
         <German>Sitzen 2 (Auf Bank oder Ähnlichem sitzend)</German>
@@ -2856,7 +2916,7 @@
       <Key ID="STR_ENH_ambAnimCombo_sit3">
         <Original>Sit 3 (Sitting on bench or similar, unarmed)</Original>
         <English>Sit 3 (Sitting on bench or similar, unarmed)</English>
-        <French>Assis 3 (sur un banc ou autre, non armé)</French>
+        <French>Assis 9 (sur un objet, non armé)</French>
         <Spanish>Sentarse 3 (Sentado en un banco o similar, desarmado)</Spanish>
         <Italian />
         <German>Sitzen 2 (Auf Bank oder Ähnlichem sitzend, unbewaffnet)</German>
@@ -2896,7 +2956,7 @@
       <Key ID="STR_ENH_ambAnimCombo_proneInjured2">
         <Original>Prone injured 2 (Laying wounded on back, no weapon)</Original>
         <English>Prone injured 2 (Laying wounded on back, no weapon)</English>
-        <French>Blessé 2 (le dos, sans arme)</French>
+        <French>Blessé 2 (sur le dos, sans arme)</French>
         <Spanish>Tumbado prono herido 2 (Colocación herida en la espalda, sin arma)</Spanish>
         <German>Verletzt am Boden 2 (Keine Waffe)</German>
       </Key>
@@ -2915,48 +2975,49 @@
       <Key ID="STR_ENH_ambAnimCombo_repairVehStand">
         <Original>Repair vehicle (Reparing vehicle, standing)</Original>
         <English>Repair vehicle (Reparing vehicle, standing)</English>
-        <French>Répare 1 (debout, non armé)</French>
+        <French>Répare un véhicule 1 (debout, non armé)</French>
         <Spanish>Reparar vehículo (Reparando vehículo, de pie)</Spanish>
         <German>Fahrzeug reparieren (Stehend, ohne Waffe)</German>
       </Key>
       <Key ID="STR_ENH_ambAnimCombo_repairVehKneel">
         <Original>Repair vehicle (Reparing vehicle, kneeling)</Original>
         <English>Repair vehicle (Reparing vehicle, kneeling)</English>
-        <French>Répare 2 (à genoux, non armé)</French>
+        <French>Répare un véhicule 2 (à genoux, non armé)</French>
         <Spanish>Reparar vehículo (Reparando vehículo, de rodillas)</Spanish>
         <German>Fahrzeug reparieren (Kniend, ohne Waffe)</German>
       </Key>
       <Key ID="STR_ENH_ambAnimCombo_repairVehProne">
         <Original>Repair vehicle (Reparing vehicle, prone)</Original>
         <English>Repair vehicle (Reparing vehicle, prone)</English>
-        <French>Répare 3 (allongé, non armé)</French>
+        <French>Répare un véhicule 3 (allongé, non armé)</French>
         <Spanish>Reparar vehículo (Reparando vehículo, tumbado prono)</Spanish>
         <German>Fahrzeug reparieren (Liegend, ohne Waffe)</German>
       </Key>
       <Key ID="STR_ENH_ambAnimCombo_kneelTreat">
         <Original>Treating wounded soldier (Kneeling)</Original>
         <English>Treating wounded soldier (Kneeling)</English>
-        <French />
+        <French>Soigne un blessé (à genoux)</French>
         <Spanish>Tratando a un soldado herido (Arrodillado)</Spanish>
         <German>Verletzung behandeln (Kniend)</German>
       </Key>
       <Key ID="STR_ENH_ambAnimCombo_sitSad_1">
         <Original>Sit Sad 1 (Sitting on chair, looking sad)</Original>
         <English>Sit Sad 1 (Sitting on chair, looking sad)</English>
-        <French />
+        <French>Assis démoralisé 1 (sur un objet, triste)</French>
         <Spanish>Sentarse triste 1 (Sentado en la silla, mirando triste)</Spanish>
         <German>Sitzen 1 (In Stuhl sitzend, niederschlagen schauend)</German>
       </Key>
       <Key ID="STR_ENH_ambAnimCombo_sitSad_2">
         <Original>Sit Sad 2 (Sitting on chair, looking sad)</Original>
         <English>Sit Sad 2 (Sitting on chair, looking sad)</English>
-        <French />
+        <French>Assis démoralisé 2 (sur un objet, triste)</French>
         <Spanish>Sentarse triste 2 (Sentado en la silla, mirando triste)</Spanish>
         <German>Sitzen 2 (In Stuhl sitzend, niederschlagen schauend)</German>
       </Key>
       <Key ID="STR_ENH_ambAnimCombo_guard">
         <Original>Guard</Original>
         <English>Guard</English>
+        <French>Garde</French>
         <Spanish>Guarda</Spanish>
         <German>Bewachen</German>
       </Key>
@@ -2980,7 +3041,7 @@
         <Original>SkipTime + 1 hour</Original>
         <English>SkipTime + 1 hour</English>
         <Czech />
-        <French />
+        <French>Avancer dans le temps (+1 heure)</French>
         <Spanish />
         <Italian />
         <Polish />
@@ -2992,7 +3053,7 @@
         <Original>Toggle captive mode</Original>
         <English>Toggle captive mode</English>
         <Czech />
-        <French />
+        <French>Activer le mode Captif</French>
         <Spanish />
         <Italian />
         <Polish />
@@ -3004,7 +3065,7 @@
         <Original>Toggle invulnerability</Original>
         <English>Toggle invulnerability</English>
         <Czech />
-        <French />
+        <French>Activer l'invulnérabilité</French>
         <Spanish />
         <Italian />
         <Polish />
@@ -3016,7 +3077,7 @@
         <Original>Show enemy awareness</Original>
         <English>Show enemy awareness</English>
         <Czech />
-        <French />
+        <French>Afficher le niveau d'alerte des ennemis</French>
         <Spanish />
         <Italian />
         <Polish />
@@ -3028,7 +3089,7 @@
         <Original>Toggle bullet tracking</Original>
         <English>Toggle bullet tracking</English>
         <Czech />
-        <French />
+        <French>Activer le Bullet Tracking</French>
         <Spanish />
         <Italian />
         <Polish />
@@ -3040,7 +3101,7 @@
         <Original>Reveal units</Original>
         <English>Reveal units</English>
         <Czech />
-        <French />
+        <French>Révéler les unités</French>
         <Spanish />
         <Italian />
         <Polish />
@@ -3052,7 +3113,7 @@
         <Original>Change time multiplier</Original>
         <English>Change time multiplier</English>
         <Czech />
-        <French />
+        <French>Changer le multiplicateur de temps</French>
         <Spanish />
         <Italian />
         <Polish />
@@ -3064,7 +3125,7 @@
         <Original>Teleport</Original>
         <English>Teleport</English>
         <Czech />
-        <French />
+        <French>Téléporter</French>
         <Spanish />
         <Italian />
         <Polish />
@@ -3076,7 +3137,7 @@
         <Original>Heal &amp; Repair</Original>
         <English>Heal &amp; Repair</English>
         <Czech />
-        <French />
+        <French>Soigner et Réparer</French>
         <Spanish />
         <Italian />
         <Polish />
